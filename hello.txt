@@ -1,0 +1,4 @@
+void main()
+{
+	printf("Hello guys. Welcome to the team.");
+}
