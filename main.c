@@ -6,6 +6,7 @@ int main()
 {
 	printf("Hello world");
 	printf("this is sam");
+	printf("this is bishal");
 	return 0;
-This is the line by bishal
+
 }
